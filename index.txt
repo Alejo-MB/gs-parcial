@@ -1,0 +1,4 @@
+Como cliente de tienda online, quiero poder registrarme
+en la plataforma con mi correo electronico y
+contrasena, para realizar compras y hacer seguimiento
+de mis pedidos sin tener que asistir al local fisico.
